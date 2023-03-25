@@ -18,7 +18,7 @@ _______Список участников команды:_______ версии д�
 - Kate Smirnova (Kaalista, Помехи Full HD)
 - Cherny Oleg (leo37rus, Henman)
 - Mikhail Belugin (belujimi, Mikhail Belugin)
-- 
+
 _______Имя тимлида (по желанию):_______версии до 2.1
 - Kate Smirnova
 
